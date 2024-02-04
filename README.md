@@ -6,11 +6,11 @@ Teerace is a project gathering results from a network of trusted Teeworlds Race-
 Modified server is also a part of this project, it is able to communicate with webapp through its API.
 
 This repository covers web application part only.
-The [teerace-ready gameserver](https://github.com/SushiTee/teerace/blob/master/teerace/) is developed by SushiTee and Redix.
+The [teerace-ready gameserver](https://github.com/SushiTee/teerace/tree/master/teerace) is developed by SushiTee and Redix.
 
 Network graph
 -----
-![network graph](https://github.com/SushiTee/teerace/blob/master/teerace/media/images/network_graph.png)
+![network graph](https://raw.githubusercontent.com/SushiTee/teerace/master/teerace/media/images/network_graph.png)
 
 License
 -------
